@@ -1,0 +1,60 @@
+table {
+  border-collapse: collapse;
+  width: 300px;
+}
+
+td {
+  border: 1px solid #ccc;
+  height: 100px;
+  width: 100px;
+}
+
+.box {
+  height: 80px;
+  width: 80px;
+  margin: 10px;
+  text-align: center;
+  line-height: 80px;
+  cursor: move;
+}
+
+.hide {
+  transition: 0.01s;
+  transform: translateX(-9999px);
+}
+
+/* #box1 {
+  background-color: red;
+}
+
+#box2 {
+  background-color: blue;
+} */
+
+/* #box3 {
+  background-color: green;
+}
+
+#box4 {
+  background-color: orange;
+}
+
+#box5 {
+  background-color: black;
+}
+
+#box6 {
+  background-color: purple;
+}
+
+#box7 {
+  background-color: yellow;
+}
+
+#box8 {
+  background-color: red;
+}
+
+#box9 {
+  background-color: red;
+} */
